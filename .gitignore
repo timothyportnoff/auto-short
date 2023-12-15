@@ -1,3 +1,7 @@
+#Exclude all mp3's and mp4's for copyright purposes
+*mp3
+*mp4
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
